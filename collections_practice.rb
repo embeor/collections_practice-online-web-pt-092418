@@ -28,3 +28,7 @@ def kesha_maker (array)
     a[3,1] = ""
   end
 end
+
+def find_a (letter)
+
+end
