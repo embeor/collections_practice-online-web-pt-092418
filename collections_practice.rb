@@ -38,3 +38,11 @@ end
 def sum_array(array)
   array.inject(:+)
 end
+
+def add_s (array)
+  array.collect do |adds|
+    "#{adds}s"
+  end
+end
+    
+  
