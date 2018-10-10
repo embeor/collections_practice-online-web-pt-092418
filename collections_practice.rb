@@ -21,3 +21,6 @@ end
 def reverse_array (array)
   array [0], array [1], array [2] = array [2], array [1], array [0]
 end
+
+def kesha_maker (array)
+  array [2] = $
