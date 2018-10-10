@@ -25,5 +25,6 @@ end
 def kesha_maker (array)
   array.each do |a|
     a.insert 2, "$"
+
   end
 end
