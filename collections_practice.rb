@@ -40,7 +40,7 @@ def sum_array(array)
 end
 
 def add_s (array)
-  array[0,2,3].collect do |adds|
+  array.collect do |adds|
     "#{adds}s"
   end
 end
