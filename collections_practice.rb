@@ -26,7 +26,5 @@ def kesha_maker (array)
   array.each do |a|
     a.insert 2, "$"
     a[3,1] = ""
-
-
   end
 end
