@@ -44,5 +44,5 @@ def add_s (array)
     "#{adds}s"
   end
 end
-    
+
   
