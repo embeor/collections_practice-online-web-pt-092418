@@ -24,6 +24,6 @@ end
 
 def kesha_maker (array)
   array.each do |a|
-    a.substitute 2, "$"
+    a.insert 2, "$"
   end
 end
